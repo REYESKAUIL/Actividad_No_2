@@ -1,0 +1,13 @@
+i++ y i--
+<  a<b	 b
+>  a>b  b
+==	 a	a==b	a  a b
+and as assert break class 
+!=	a!=b  b
+<=	 a<=	 b
+>=	 >=b	 b
+a = a + b
++ - * / %
+1.5, 4.6, 1.2, 0.9 
+5494 + 654,  454 + 46, 4548-1765, 64 - 84
+i++
